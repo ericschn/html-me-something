@@ -1,0 +1,17 @@
+h5 {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: #ccc;
+}
+
+.cont {
+    
+    margin: 20px;
+    padding: 10px;
+    max-width: 1200px;
+    background-color: white;
+    box-shadow: 0 10px 10px 0px #555;
+}
